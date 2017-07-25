@@ -1,6 +1,6 @@
 {
   "name": "hazardous",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "description": "Overload Electron path module for asar.unpacked support",
   "main": "lib/index.js",
   "scripts": {
@@ -21,12 +21,11 @@
   },
   "homepage": "https://github.com/epsitec-sa/hazardous#readme",
   "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^3.2.0",
-    "xcraft-dev-rules": "^0.1.17"
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2",
+    "xcraft-dev-rules": "^0.1.21"
   },
   "dependencies": {
-    "asar": "^0.13.0",
     "callsite": "^1.0.0"
   }
 }
